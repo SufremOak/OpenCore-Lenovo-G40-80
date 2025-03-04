@@ -31,3 +31,5 @@ Working:
 Not working or not tested:
 - Airdrop
 - Dedicated GPU
+
+> Attempting to make it work with monteray
